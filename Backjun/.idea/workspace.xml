@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c0f4d62-a724-439f-9980-9eeac42a20b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Function_4673.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1c88fYyLWiAZY2gqFPZG7svNsDs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Function_4673" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Backjun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Function_4673.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Function_4673" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c0f4d62-a724-439f-9980-9eeac42a20b7" name="Default Changelist" comment="" />
+      <created>1589898963865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589898963865</updated>
+      <workItem from="1589898965276" duration="1249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="165" key="GridCell.Tab.0.bottom" timestamp="1589900220144">
+      <screen x="1360" y="0" width="1280" height="693" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.bottom/1360.0.1280.693/0.0.1360.728@1360.0.1280.693" timestamp="1589900220144" />
+    <state width="1237" height="165" key="GridCell.Tab.0.center" timestamp="1589900220144">
+      <screen x="1360" y="0" width="1280" height="693" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.center/1360.0.1280.693/0.0.1360.728@1360.0.1280.693" timestamp="1589900220144" />
+    <state width="1237" height="165" key="GridCell.Tab.0.left" timestamp="1589900220144">
+      <screen x="1360" y="0" width="1280" height="693" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.left/1360.0.1280.693/0.0.1360.728@1360.0.1280.693" timestamp="1589900220144" />
+    <state width="1237" height="165" key="GridCell.Tab.0.right" timestamp="1589900220144">
+      <screen x="1360" y="0" width="1280" height="693" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.right/1360.0.1280.693/0.0.1360.728@1360.0.1280.693" timestamp="1589900220144" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Backjun$Function_4673.coverage" NAME="Function_4673 Coverage Results" MODIFIED="1589900023706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
